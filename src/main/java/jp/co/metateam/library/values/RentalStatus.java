@@ -1,5 +1,6 @@
 package jp.co.metateam.library.values;
 
+import jp.co.metateam.library.model.RentalManage;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
@@ -14,3 +15,13 @@ public enum RentalStatus implements Values {
     private final Integer value;
     private final String text;  
 }
+
+    //貸出ステータスの値をとってくる処理
+    //for文の中にif文
+
+
+
+
+
+
+
